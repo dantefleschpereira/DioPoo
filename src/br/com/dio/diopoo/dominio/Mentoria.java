@@ -43,7 +43,7 @@ public class Mentoria {
 
 	@Override
 	public String toString() {
-		return "Mentoria [titulo=" + titulo + ", descricao=" + descricao + ", data=" + data + "]";
+		return "Mentoria [titulo: " + titulo + ", descricao: " + descricao + ", data: " + data + "]";
 	}
 
 }
